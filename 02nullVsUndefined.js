@@ -24,3 +24,5 @@ console.log(fun);
 // Undefined in array
 let ages = [2, 5, 9];
 console.log(ages[11]);
+console.log(undefined == null);
+console.log(undefined === null);
